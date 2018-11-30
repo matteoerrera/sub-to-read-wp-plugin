@@ -1,0 +1,26 @@
+msgid "title"
+msgstr ""
+
+msgid "subtitle"
+msgstr ""
+
+msgid "your_name"
+msgstr ""
+
+
+msgid "your_email"
+msgstr ""
+
+msgid "tos_text"
+msgstr ""
+
+msgid "submit_button_text"
+msgstr ""
+
+msgid "name_placeholder"
+msgstr ""
+
+
+msgid "email_placeholder"
+msgstr ""
+
