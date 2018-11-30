@@ -1,0 +1,35 @@
+.sub-continue {
+    max-height: 70px;
+    position: relative;
+    //overflow: hidden;
+    transition: max-height 1s ease;
+}
+
+.sub-continue.full {
+    max-height: 100%;
+}
+
+.sub-continue .shadow {
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+    top: -120px;
+    left: 0;
+}
+.sub-to-read-cta .form {
+    width: 70%;
+}
+
+.sub-to-read-cta .form .form-group {
+    margin: 10px 0;
+}
+
+.sub-to-read-cta .form .form-group input[type="text"], .sub-to-read-cta .form .form-group input[type="email"] {
+    width: 100%;
+    display: block;
+}
+
+section.sub-to-read-cta {
+    margin-top: 20px;
+}

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+msgid "title"
+msgstr "Vuoi continuare a leggere l’articolo?"
+
+msgid "subtitle"
+msgstr "Inserisci la tua email per continuare a leggere l’articolo e ricevere news sul nostro prodotto."
+
+msgid "your_name"
+msgstr "Nome"
+
+msgid "your_email"
+msgstr "Email"
+
+msgid "tos_text"
+msgstr "Acconsento al trattamento dei dati termini e condizioni per l’utilizzo dei dati."
+
+msgid "submit_button_text"
+msgstr "Invia"
+
+msgid "name_placeholder"
+msgstr "Il tuo nome"
+
+msgid "email_placeholder"
+msgstr "La tua email"
